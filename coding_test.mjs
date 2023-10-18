@@ -43,7 +43,6 @@ while (createOtherUser)
     }
 }
 
-
 // =========== Step 2 ================
 // Create users based on earlier input
 // Use firstname{index}.lastname@atko.email as username (For example, john1.doe@atko.email)
