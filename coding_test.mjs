@@ -45,7 +45,7 @@ while (createOtherUser)
 
 // =========== Step 2 ================
 // Create users based on earlier input
-// Use firstname{index}.lastname@atko.email as username (For example, john1.doe@atko.email)
+// Use firstname.lastname@atko.email as username (For example, john1.doe@atko.email)
 
 // =========== Step 3 ================
 // Create a group, get group name through console input
